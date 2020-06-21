@@ -1,0 +1,1 @@
+This is a page that makes use of mailchimp api to send News Letters to individuals that subscribed to it. Created using express.js and bootstrap.
